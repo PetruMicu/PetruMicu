@@ -40,3 +40,4 @@ Complete chess engine implementation with move validation, game state management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-petru--micu-blue?style=flat&logo=linkedin)](https://linkedin.com/in/petru-micu)
 [![Email](https://img.shields.io/badge/Email-micu.petru2899%40gmail.com-red?style=flat&logo=gmail)](mailto:micu.petru2899@gmail.com)
+[![GitLab](https://gitlab.com/pmicu)
